@@ -1,9 +1,9 @@
 [submodule "programming"]
 	path = programming
-	url = ../Programming
+	url = https://github.com/chantracyjames-bot/programming.git
 [submodule "cs_notes"]
 	path = cs_notes
-	url = ../Computer Science Notes/
+	url = https://github.com/chantracyjames-bot/cs_notes.git
 [submodule "p_notes"]
 	path = p_notes
-	url = ../Programming Notes/
+	url = https://github.com/chantracyjames-bot/p_notes.git
