@@ -1,0 +1,9 @@
+[submodule "programming"]
+	path = programming
+	url = ../Programming
+[submodule "cs_notes"]
+	path = cs_notes
+	url = ../Computer Science Notes/
+[submodule "p_notes"]
+	path = p_notes
+	url = ../Programming Notes/
