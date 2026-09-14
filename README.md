@@ -8,3 +8,5 @@ If you want to visit my repositories or submodules, here are their README.md fil
 - \> [Computer Science Notes](cs_notes/README.md)
 - \> [Programming Notes](p_notes/README.md)
 - \> [Programming](programming/README.md)
+
+If you want to have my repositories locally located onto your machines, i.e. download and access my files offline, follow this [guide](guide.md).
